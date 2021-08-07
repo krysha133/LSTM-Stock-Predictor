@@ -51,11 +51,11 @@ Finally, use the testing data to evaluate each model and compare the performance
 Use the above to answer the following:
 
 > Which model has a lower loss?
->
+>The closing price model had a lower loss
 > Which model tracks the actual values better over time?
->
+>The closing price model tends to track the shape of the price history better and more accurately than the FNG model
 > Which window size works best for the model?
-
+> A window size of 10 worked best for the model
 - - -
 
 ### Resources
